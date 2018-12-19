@@ -1,4 +1,4 @@
-package FactoryPattern;
+package _02AbstractFracotyPattern;
 
 public class Circle implements Shape {
 
